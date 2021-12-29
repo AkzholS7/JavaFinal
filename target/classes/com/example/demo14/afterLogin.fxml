@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #171717;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo14.AfterLogin">
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <ImageView fitHeight="301.0" fitWidth="370.0" layoutX="161.0" layoutY="14.0" pickOnBounds="true"
+                    preserveRatio="true">
+            <Image url="@../../../hotel-icon-summer-vacation-vector-13839555.jpg"/>
+         </ImageView>
+         <Button fx:id="logOut" layoutX="233.0" layoutY="299.0" mnemonicParsing="false" onAction="#userLogOut"
+                 prefHeight="44.0" prefWidth="134.0" style="-fx-background-color: #FFC900;" text="Log Out">
+            <font>
+               <Font size="27.0"/>
+            </font>
+         </Button>
+      </AnchorPane>
+   </center>
+</BorderPane>
