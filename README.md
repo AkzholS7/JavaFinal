@@ -15,3 +15,24 @@ TEAM MEMBERS: Aibek Karshiboev, Akzhol Suborov
 ![oop7](https://user-images.githubusercontent.com/73769876/148400537-33ef7005-9113-4008-8421-43c7d8bc11b3.png)
 
 Youtube Video Presentation : https://www.youtube.com/watch?v=3bfaS257qYU&ab_channel=%D0%90%D0%BA%D0%B6%D0%BE%D0%BB%D0%A1%D1%83%D0%B1%D0%BE%D1%80%D0%BE%D0%B2
+
+FEEDBACKS:
+
+Venera:
+I think it's good app, and I believe Akzhol and Aibek will continue to develop this project. Now, user can register to the system. For beginning it's very good program.
+
+Samara:
+A useful web app to facilitate the work of the receptionist. And to ensure the safety of visitors at the hotel.
+
+Nuradil:
+This program is only for hotels. Are you registered with the hotel or not? 
+ He checks it out. Very well done. I wish you success in all your endeavors.
+ 
+ Atai:
+ This program might be used in hotels like in Issyk-Kul if it will be developed a little bit. From my point of fview it is really amazing idea using this application.
+ 
+ Kalmat:
+Application is absolutely comfortable for use and you can understand by using your intuition. 
+
+VIDEO Feedbacks:
+
