@@ -13,3 +13,5 @@ TEAM MEMBERS: Aibek Karshiboev, Akzhol Suborov
 ![oop5](https://user-images.githubusercontent.com/73769876/148400513-632d016f-d744-42eb-b1b7-608ffa256767.png)
 ![oop6](https://user-images.githubusercontent.com/73769876/148400524-130aa545-17b3-4139-b176-d3e60d7690b7.png)
 ![oop7](https://user-images.githubusercontent.com/73769876/148400537-33ef7005-9113-4008-8421-43c7d8bc11b3.png)
+
+Youtube Video Presentation : https://www.youtube.com/watch?v=3bfaS257qYU&ab_channel=%D0%90%D0%BA%D0%B6%D0%BE%D0%BB%D0%A1%D1%83%D0%B1%D0%BE%D1%80%D0%BE%D0%B2
