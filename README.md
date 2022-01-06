@@ -37,3 +37,5 @@ Application is absolutely comfortable for use and you can understand by using yo
 VIDEO Feedbacks:
 
 https://user-images.githubusercontent.com/73769876/148417699-42846c95-52c5-4fe0-84fb-553ccaa279ef.mp4
+
+https://user-images.githubusercontent.com/73769876/148418224-ec7044ab-badf-4480-a54c-08188cec91c5.mp4
